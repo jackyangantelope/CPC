@@ -1,0 +1,16 @@
+/build/
+/tools/release/
+/.claude/
+/.codex/
+/roms/
+/BIOS/
+/SAVES/
+*.uf2
+*.elf
+*.bin
+*.rom
+*.dsk
+*.cdt
+*.sav
+*.map
+*.jcow
